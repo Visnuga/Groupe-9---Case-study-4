@@ -1,0 +1,17 @@
+
+Data scientist
+
+Skills:
+Data visualization using Matplotlib
+Statistical analysis using SciPy
+Processing structured tables using Pandas
+Executing K-means clustering and DBSCAN clustering using scikit-learn
+Extracting locations from text using GeoNamesCache
+Location analysis and visualization using GeoNamesCache and Cartopy
+Dimensionality reduction with PCA and SVD using scikit-learn
+NLP analysis and text topic detection using scikit-learn
+Measure similarity between texts
+Efficiently cluster large text datasets
+Visually display multiple text clusters
+Parse HTML files for text content
+Metrics 
